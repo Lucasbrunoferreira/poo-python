@@ -1,7 +1,7 @@
 from pessoa import Pessoa
 
 
-class Funcionario(Pessoa):  # Herança - Funcionario herda a classe Pessoa
+class Funcionario(Pessoa):  # Herança - Funcionario "é um(a)" Pessoa
     __salario = 975.00  # Encapsulamento - atributo privado
 
     def __init__(self, cargo, nome, sexo, data_nascimento):
