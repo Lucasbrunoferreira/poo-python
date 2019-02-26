@@ -1,4 +1,6 @@
-### Programação Orientada a Objetos - Python
+## Programação Orientada a Objetos - Python
+
+#### Aplicação dos principais pilares da programação orientada a objetos em python.
 
 - [x] Classe
 - [x] Atributos
@@ -8,8 +10,7 @@
 - [x] Visibilidade
 - [x] Encapsulamento
 - [x] Herança
-- [ ] Polimorfismo
-- [ ] Associação
-- [ ] Composição
-- [ ] Agregação
+- [x] Polimorfismo
+- [x] Composição
+- [x] Agregação
 - [ ] Interface
